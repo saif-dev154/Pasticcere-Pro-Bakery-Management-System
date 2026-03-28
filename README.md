@@ -256,8 +256,8 @@ inventory            → id, ingredient_id, quantity, last_updated
 ## 🧑‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@saif-dev154](https://github.com/your-username)
+- LinkedIn: [https://www.linkedin.com/in/muhammad-saif-ur-rehman-983775341 ](https://linkedin.com/in/your-profile)
 
 ---
 
